@@ -1,0 +1,11 @@
+C:\Users\lesku\source\repos\stefaninitest\obj\Release\net6.0\PubTmp\Out\stefaninitest.exe
+C:\Users\lesku\source\repos\stefaninitest\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\lesku\source\repos\stefaninitest\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\lesku\source\repos\stefaninitest\obj\Release\net6.0\PubTmp\Out\stefaninitest.dll
+C:\Users\lesku\source\repos\stefaninitest\obj\Release\net6.0\PubTmp\Out\stefaninitest.deps.json
+C:\Users\lesku\source\repos\stefaninitest\obj\Release\net6.0\PubTmp\Out\stefaninitest.runtimeconfig.json
+C:\Users\lesku\source\repos\stefaninitest\obj\Release\net6.0\PubTmp\Out\stefaninitest.pdb
+C:\Users\lesku\source\repos\stefaninitest\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\lesku\source\repos\stefaninitest\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lesku\source\repos\stefaninitest\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lesku\source\repos\stefaninitest\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
